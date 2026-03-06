@@ -1,0 +1,22 @@
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Login.dll
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Login.pdb
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Core.dll
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\Newtonsoft.Json.dll
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Core.pdb
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\Newtonsoft.Json.xml
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.csproj.AssemblyReference.cache
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.csproj.CoreCompileInputs.cache
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\Chestion.819E9471.Up2Date
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.dll
+D:\proiect_ip\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Login.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Login.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Core.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\ChestionarAuto.Core.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\Chestion.819E9471.Up2Date
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\ChestionarAuto.Login\obj\Debug\ChestionarAuto.Login.pdb

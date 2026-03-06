@@ -1,0 +1,54 @@
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.dll.config
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Core.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Intrebari.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Legislatie.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Login.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Test.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Utilizator.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\Newtonsoft.Json.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Core.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Intrebari.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Legislatie.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Login.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Test.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Utilizator.pdb
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\bin\Debug\Newtonsoft.Json.xml
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.AssemblyReference.cache
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.FormLogin.resources
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAutoApp.FormMeniu.resources
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.FormTest.resources
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.GenerateResource.cache
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.CoreCompileInputs.cache
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\Chestion.9387052E.Up2Date
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.dll
+D:\proiect_ip\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.dll.config
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Core.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Intrebari.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Legislatie.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Login.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Test.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Utilizator.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Core.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Intrebari.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Legislatie.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Login.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Test.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\ChestionarAuto.Utilizator.pdb
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.FormLogin.resources
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAutoApp.FormMeniu.resources
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.FormTest.resources
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\ChestionarAuto.UI.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\Chestion.9387052E.Up2Date
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.dll
+C:\Users\stefa\Desktop\Chestionar Auto\ChestionarAutoApp\WindowsForms\obj\Debug\WindowsForms.pdb
