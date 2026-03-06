@@ -1,0 +1,33 @@
+1. David – Dezvoltator principal
+
+A implementat majoritatea codului sursă: UI, formulare, clase logice.
+
+A creat și organizat bibliotecile DLL (Core, Login, Teste, Intrebari, etc.).
+
+A realizat integrarea și afișarea ajutorului contextual (Help) prin F1.
+
+A realizat logica testului: timer, scor, întrebări, skip, validări.
+
+Contribuție principală: Cod funcțional, UI, integrare logică completă.
+
+2. Ștefan – Testare și documentare tehnică
+
+A dezvoltat și rulat testele unitare pentru clasele Question, Rezultat și User.
+
+A realizat comentariile explicative în codul existent pentru claritate.
+
+A realizat diagrama UML a arhitecturii aplicației.
+
+A verificat și validat funcționalitatea aplicației.
+
+Contribuție principală: Calitate, testare, înțelegerea structurii aplicației.
+
+3. Tudor – Arhitectură și documentație
+
+A propus și validat modelul de date (Question, User, Rezultat, Lectie).
+
+A adăugat antetul standardizat în fiecare fișier sursă pentru uniformitate.
+
+A redactat documentația proiectului (PDF/DOCX), inclusiv descrierea modulelor.
+
+Contribuție principală: Organizare, structură, standardizare și livrabile scrise.
